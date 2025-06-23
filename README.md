@@ -12,6 +12,6 @@ python sorteia_numeros.py
 
 Contribuições são bem-vindas, você pode abrir uma issue ou um pull request.
 
-## Lincença:
+## Licença:
 
 Este projeto está sob a licença MIT.
